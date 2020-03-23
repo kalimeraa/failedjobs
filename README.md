@@ -1,4 +1,4 @@
-## About FailedJob
+## About FailedJobs
 
 A failed job's payload beautifier [failedjobs.com](https://failedjobs.com)
 
@@ -12,4 +12,4 @@ If you discover a security vulnerability within FailedJob, please send an e-mail
 
 ## License
 
-The FailedJob is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+The FailedJobs is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
