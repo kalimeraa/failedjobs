@@ -6,15 +6,15 @@
           content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
 
-    <meta name="identifier-url" content="failedjobs.com" />
-    <meta name="title" content="Laravel Failed Jobs Formatter" />
-    <meta name="description" content="laravel failed job payload formatter" />
-    <meta name="abstract" content="laravel failed job payload formatter" />
-    <meta name="keywords" content="laravel failed jobs formatter, laravel payload formatter" />
-    <meta name="author" content="murat topuz" />
-    <meta name="revisit-after" content="15" />
-    <meta name="language" content="EN" />
-    <meta name="robots" content="All" />
+    <meta name="identifier-url" content="failedjobs.com"/>
+    <meta name="title" content="Laravel Failed Jobs Formatter"/>
+    <meta name="description" content="laravel failed job payload formatter"/>
+    <meta name="abstract" content="laravel failed job payload formatter"/>
+    <meta name="keywords" content="laravel failed jobs formatter, laravel payload formatter"/>
+    <meta name="author" content="murat topuz"/>
+    <meta name="revisit-after" content="15"/>
+    <meta name="language" content="EN"/>
+    <meta name="robots" content="All"/>
     <title>Laravel Failed Jobs Formatter</title>
     <meta name="csrf-token" content="{{ csrf_token() }}">
     <link href="https://cdn.jsdelivr.net/npm/tailwindcss@0.7.4/dist/tailwind.min.css" rel="stylesheet">
@@ -215,13 +215,8 @@
                 <h3 class="section-name font-medium text-xxs text-grey uppercase">About</h3>
                 <div class="section-item flex items-center mt-4">
                     <p class="text-sm font-normal text-grey-light">
-                        <3
+                         #php #javascript
                         <br>
-                        <a href="http://murattopuz.com.tr" class="no-underline text-grey-light font-bold">
-                            Created by M.T
-                        </a>
-                        <br>Frontend by <a href="https://codepen.io/koca"
-                                           class="no-underline text-grey-light font-bold">M.K</a>
                     </p>
                 </div>
             </div>
@@ -232,7 +227,8 @@
     <div class="main border-l-2 border-black bg-grey-darker flex-1 flex flex-col">
         <header class="bg-grey-darkest flex items-center justify-between p-4">
       <span class="text-grey-light text-sm flex items-center">
-        <code class="w-2 h-2 rounded-full bg-green-dark mr-2"></code> New Features Coming Soon 👍
+        <code class="w-2 h-2 rounded-full bg-green-dark mr-2"></code> <a class="text-grey-light" style="text-decoration: none"
+                                                                         href="https://github.com/bivan1/failedjobs">Now Failedjobs is open source project on github 👍 </a>
       </span>
             <button id="run"
                     class="bg-grey-darker text-grey-lighter hover:text-white font-bold text-sm py-2 px-6 rounded-full inline-flex items-center tracking-wide focus:outline-none focus:shadow-outline focus:text-white">
