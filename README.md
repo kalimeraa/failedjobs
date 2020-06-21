@@ -1,6 +1,6 @@
 ## About FailedJobs
 
-A failed job's payload beautifier [failedjobs.com](https://www.failedjobs.com)
+A failed job's payload beautifier [failedjobs.com](http://www.failedjobs.com)
 
 ## Contributing
 
